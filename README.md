@@ -34,3 +34,8 @@ c++ -Wall -Wextra -Werror -std=c++98 *.cpp -o program
 Run the program:
 ```
 ./program
+
+```
+# Usage
+```
+Run the compiled program to test basic C++ concepts, such as input/output handling, loops, and basic functions.
