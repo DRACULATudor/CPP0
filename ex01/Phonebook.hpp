@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <iomanip>
+#include <csignal>
 #include <string>
 #include "Contact.hpp"
 
@@ -25,5 +26,9 @@ public:
 };
 
 bool checknumbers(std::string index);
+std::string is_space(std::string &space);
+bool	checknumbers(std::string index);
+std::string skipin_space(std::string &space);
+
 
 #endif
