@@ -33,7 +33,7 @@ c++ -Wall -Wextra -Werror -std=c++98 *.cpp -o program
 ```
 Run the program:
 ```
-./program
+./exec_name(check Makefile)
 
 ```
 # Usage
