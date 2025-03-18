@@ -15,14 +15,9 @@ This project is part of the **C++ Modules** at **42 School**, designed to introd
     Header files and compilation
 
 
-## Installation & Compilation
+## Compilation
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/cpp-module-00.git
-cd cpp-module-00
-
-```
+``
 Compile the project:
 ```
 make
