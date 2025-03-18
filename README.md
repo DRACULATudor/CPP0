@@ -3,7 +3,7 @@
 ## Overview
 This project is part of the **C++ Modules** at **42 School**, designed to introduce fundamental C++ concepts. It covers the basics of the language, including **input/output handling, namespaces, basic functions, and flow control structures**. The goal is to build a solid foundation in **C++ syntax and best practices**.
 
-Topics Covered
+# Topics Covered
 
     Namespaces
     iostream for input/output
