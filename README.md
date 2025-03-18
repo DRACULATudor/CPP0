@@ -17,7 +17,6 @@ This project is part of the **C++ Modules** at **42 School**, designed to introd
 
 ## Compilation
 
-``
 Compile the project:
 ```
 make
@@ -29,8 +28,9 @@ c++ -Wall -Wextra -Werror -std=c++98 *.cpp -o program
 Run the program:
 ```
 ./exec_name(check Makefile)
-
 ```
+
 # Usage
 ```
 Run the compiled program to test basic C++ concepts, such as input/output handling, loops, and basic functions.
+```
